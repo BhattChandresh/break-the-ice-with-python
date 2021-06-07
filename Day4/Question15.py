@@ -15,5 +15,8 @@ print(result)
 print("-- Method-2 --")
 print("Enter a number : ")
 number1 = input()
-my_sum = int(number1) + int(2*number1) + int(3*number1) + int(4*number1)
+my_sum = int(number1) + int(2 * number1) + int(3 * number1) + int(4 * number1)
 print(my_sum)
+
+# TODO:
+# Implement this with reduce method.
