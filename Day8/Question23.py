@@ -13,5 +13,5 @@ def square_the_number():
 
 print(square_the_number())
 
-my_result = lambda my_number: my_number ** 2
-print(my_result(number))
+my_result = number ** 2
+print(my_result)
